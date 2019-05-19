@@ -68,6 +68,5 @@ public class DBTools {
     }
     public static void deleteAll(){
         SQLiteDatabase db = dbHelper.getWritableDatabase();
-
     }
 }

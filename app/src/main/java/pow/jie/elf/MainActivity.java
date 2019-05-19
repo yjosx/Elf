@@ -302,7 +302,6 @@ public class MainActivity extends AppCompatActivity
                 handler.sendMessage(message);
             }
         });
-        DBTools.
     }
 
     @Override
