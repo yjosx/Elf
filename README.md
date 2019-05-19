@@ -6,7 +6,7 @@
 ![image](https://github.com/yjosx/Elf/blob/master/screensoots/2.png)
 - 点击打开更多，向右滑动返回
 
-![image](https://github.com/yjosx/Elf/blob/master/screensoots3.png)
+![image](https://github.com/yjosx/Elf/blob/master/screensoots/3.png)
 - 播放音乐
 
 ![image](https://github.com/yjosx/Elf/blob/master/screensoots/1.png)
